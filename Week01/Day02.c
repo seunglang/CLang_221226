@@ -19,4 +19,5 @@ main() {
 	}
 
 	printf("당신의 성별은 %c 입니다.", gender);
+	printf("test");
 }

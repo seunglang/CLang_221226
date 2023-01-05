@@ -24,5 +24,32 @@
     <ClCompile Include="Day03.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Day03_ex02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="HW1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="HW2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="HW3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="HW18.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="HW19.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sizeof.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="HW22.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="HW24.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
